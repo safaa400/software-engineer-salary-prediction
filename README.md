@@ -1,4 +1,4 @@
-# software-engineer-salary-prediction
+# Software-engineer-salary-prediction
 In this project , my objective is to predict software engineers salary based on various features like the country , years of experience and the education level .I
 performed all steps from choosing the data to be used till making a web app for my model using streamlit . I compared various machine learning model ; linear 
 regression , Decision tree regressor and random forest regressor on the basis of mean squared error . At the end , random forest regressor had the best results . 
